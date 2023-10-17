@@ -10,9 +10,9 @@ const Front = () => {
     <div id='home' className='flex flex-col justify-center h-auto  max-w-screen-md mx-auto px-4 pt-6 mt-2 mb-8'>
       <h1 className='text-3xl md:text-4xl font-bold px-2 pt-6'>About</h1>
       <p className='px-2 p-1 text-3xl pt-6'>Hi,</p>
-      <p className=' px-2 p-1 text-3xl'>I'm a Shubam Sharma, Front-End developer currently trying to be Open-Source enthusiast and studying in NIT,Srinagar.</p>
-      <p className='px-2 p-1 text-3xl'>Currently I'm an intern at Gimble Softwares, and trying to learn new stuff. Nowadays, I am interested in Web3 and Machine Learning/AI.</p>
-      <p className='px-2 p-1 text-3xl'>Apart from coding, my hobbies -- I love, watching movies, hanging out with friend and listening songs.</p>
+      <p className=' px-2 p-1 text-3xl'>I'm a Shivam Sharma, Front-End developer currently trying to be Open-Source enthusiast and studying in NIT,Srinagar.</p>
+   
+      <p className='px-2 p-1 text-3xl'>Apart from coding, my hobbies  -- I love, watching movies, gym,hanging out with friend and listening songs.</p>
       <p className='px-2 p-1 text-3xl'>I'm always</p>
 
 

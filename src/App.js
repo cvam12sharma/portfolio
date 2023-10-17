@@ -2,7 +2,7 @@ import './App.css';
 import Footer from './Resume';
 import Front from './Front';
 import Navbar from './Navbar';
-import Projects from './Projects';
+// import Projects from './Projects';
 
 import Resume from './Resume';
 import Blog from './Blog';
@@ -24,7 +24,7 @@ function App() {
       <Navbar/>
       <Resume/>
       <Blog/>
-      <Projects/>
+      {/* <Projects/> */}
     </div>
   );
 

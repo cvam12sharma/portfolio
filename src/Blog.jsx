@@ -8,19 +8,18 @@ const Blog = () => {
             <div className='flex mb-4'>
                 <img className='w-24 h-24 rounded-full mr-4 bg-gray-50' src='https://www.pinclipart.com/picdir/big/460-4607050_tom-drawing-line-tom-and-jerry-sticker-black.png' alt='Profile Picture' />
                 <div className='mb-'>
-                    <h2 className='text-2xl font-bold mb-2'>Shubam Sharma</h2>
+                    <h2 className='text-2xl font-bold mb-2'>Shivam Sharma</h2>
                     <p className='text-gray-600 text-2xl'>Front End Developer</p>
                 </div>
             </div>
-            <p className='text-2xl font-bold px-2 mt-4 my-auto'>Hi,Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores dolor ipsam ullam, laboriosam veritatis neque laudantium odit! Corrupti, sint tempore!</p>
-            <p className='text-2xl font-bold px-2 my-auto'>ipsum dolor sit amet consectetur adipisicing elit. Maiores dolor ipsam ullam, laboriosam veritatis neque laudantium odit! Corrupti, sint tempore!</p>
+         
         
              <div className='flex mb-4 px-2 mt-8'>
                 <div className='w-1/2 pr-2'>
-                    <p className='text-gray-600 text-2xl mb-2'>Email: <a className='text-blue-500 hover:underline' href='mailto:name@example.com'>name@example.com</a></p>
-                    <p className='text-gray-600 text-2xl'>Phone: <a className='text-blue-500 hover:underline'>------</a>
+                    <p className='text-gray-600 text-2xl mb-2'>Email: <a className='text-blue-500 hover:underline' href='mailto:shivam_2021bite029@nitsri.ac.in'>shivam_2021bite029@nitsri.ac.in</a></p>
+                    <p className='text-gray-600 text-2xl'>Phone: <a className='text-blue-500 hover:underline'>--9870730760</a>
                     </p>
-                    <p className='text-gray-600 text-2xl mb-2'>Github <a className='text-blue-500 hover:underline' href='https://github.com/sharmashubam'>https://github.com/sharmashubam</a></p>
+                    <p className='text-gray-600 text-2xl mb-2'>Github <a className='text-blue-500 hover:underline' href='https://github.com/cvam12sharma'>https://github.com/cvam12sharma</a></p>
                    
                 </div>
             </div>
